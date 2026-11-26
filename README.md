@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ofir Cohen 👋
 
-<!--
-**Ofircohen80/Ofircohen80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Integration Analyst** | Digital Health | Enterprise Integration
 
-Here are some ideas to get you started:
+I design and specify integrations between systems - messaging flows, APIs,
+and cross-system data mapping - currently in digital health at a large Israeli HMO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+- **Messaging & integration:** Kafka, ESB, enterprise integration patterns
+- **Healthcare standards:** HL7, FHIR, DICOM
+- **Development background:** Java (development & developer training)
+- **Product side:** integration specifications, technical product analysis
+
+### 🧭 Background
+- **A large Israeli HMO**: Systems/Integration Analyst, digital health integration projects
+- **Sapiens International** (2016–2024): InsurTech / enterprise software
+
+### 🌱 Currently exploring
+AI tooling, agents, and building small side projects with Claude Code.
+
+### 📫 Reach me
+- LinkedIn: [Ofir Cohen](https://www.linkedin.com/in/ofir-cohen-14869978)
+
+📍 Israel
